@@ -83,18 +83,8 @@ E. Halaman About
 
 Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.
 
-![Screenshot 2025-06-23 125620](https://github.com/user-attachments/assets/493bc27d-741a-49e2-bf76-8a09f2951aaa)
-![Screenshot 2025-06-23 125637](https://github.com/user-attachments/assets/26138bce-c510-4a6f-ac76-a8318974b198)
-![Screenshot 2025-06-23 125648](https://github.com/user-attachments/assets/5c81c9ed-d554-42df-8c82-8efa468f0c60)
+![image](https://github.com/user-attachments/assets/3aa05d78-ea5d-4742-947a-258dd72cdbec)
+![image](https://github.com/user-attachments/assets/ea85ce71-7342-4a10-ad2b-9fb7f7d1c56b)
+![image](https://github.com/user-attachments/assets/15a165aa-8245-4280-9559-ca8addcdcdfe)
 
-**PENAMBAHAN FITUR BARU (OPSIONAL) TAMBAHAN NILAI**
-1. Login Multiuser + Hak Akses
-2. Kategori / Tag Artikel
-3. Komentar Artikel
-4. Form Kontak / Buku Tamu
-5. Statistik Pengunjung
-6. Fitur Pencarian
-7. Tampilan Dark Mode
-8. Jadwal / Timeline Kegiatan
-9. Integrasi AI
-10. Fitur lainnya sesuai keinginan
+
