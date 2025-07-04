@@ -33,19 +33,20 @@ A. Halaman Home / Artikel
 
 Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.
 
-![Screenshot 2025-06-23 120751](https://github.com/user-attachments/assets/f6854dfd-534c-468d-affb-0320d948e6cf)
+![image](https://github.com/user-attachments/assets/93aa04f9-43ef-4b9f-aaec-ef53194b4164)
+
 
 B. Halaman Gallery
 
 Halaman Gallery adalah halaman yang menampilkan foto-foto mahasiswa secara individu.
 
-![Screenshot 2025-06-23 121251](https://github.com/user-attachments/assets/72d770c8-1b40-4b4c-bb2c-b3a6ba6d4fc2)
+![image](https://github.com/user-attachments/assets/a5d563ab-131a-4612-b0bb-1b60309a5c5e)
 
 C. Halaman About
 
 Halaman About adalah halaman yang menampilkan deskripsi tentang saya atau profile dari masing-masing mahasiswa.
 
-![Screenshot 2025-06-23 121542](https://github.com/user-attachments/assets/5ee4cf9f-2292-4142-9f35-8d76250a9f46)
+![image](https://github.com/user-attachments/assets/ee0c199b-bb17-4650-95a2-2404ee29e51f)
 
 **User Interface Halaman Admin**
 
@@ -53,29 +54,30 @@ A. Halaman Login
 
 Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin, diperlukan username dan password.
 
-![Screenshot 2025-06-23 124735](https://github.com/user-attachments/assets/ae7db366-9d04-4867-9adf-5d605a607e97)
+![image](https://github.com/user-attachments/assets/e58e8edf-aaea-484c-a72a-ea219819af1a)
 
 B. Halaman Beranda
 
 Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan Jumlah Gallery.
 
-![Screenshot 2025-06-23 124818](https://github.com/user-attachments/assets/43023590-e7e3-48a2-bcdb-b17811ecbcc5)
+![image](https://github.com/user-attachments/assets/4dfb3316-814f-46d3-8f8d-e380ba9dd4ee)
+
 
 C. Halaman Kelola Artikel
 
 Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.
 
-![Screenshot 2025-06-23 125004](https://github.com/user-attachments/assets/31ccedd0-7a80-4db8-97fe-8844b8bfd8b2)
-![Screenshot 2025-06-23 125120](https://github.com/user-attachments/assets/8014df4c-c4a8-4d84-89ae-5ef0894b8566)
-![Screenshot 2025-06-23 125137](https://github.com/user-attachments/assets/208c3305-20da-4341-affb-710456114b24)
+![image](https://github.com/user-attachments/assets/d3f16e5d-c4c0-43d9-8788-a759cc210158)
+![image](https://github.com/user-attachments/assets/fb0b4a37-772b-429b-8cf4-46108840a794)
+![image](https://github.com/user-attachments/assets/b2a73d64-9a8c-42fd-903c-4d22d704b598)
 
 D. Halaman Kelola Gallery
 
 Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.
 
-![Screenshot 2025-06-23 125235](https://github.com/user-attachments/assets/e31328cd-c66e-4ddf-922d-f967d4461a94)
-![Screenshot 2025-06-23 125250](https://github.com/user-attachments/assets/d37f4feb-5755-4644-9435-0bf03bc1fcf8)
-![Screenshot 2025-06-23 125306](https://github.com/user-attachments/assets/3891ce33-96e6-43f9-84d6-07c3f523a073)
+![image](https://github.com/user-attachments/assets/05df966c-abbd-4325-b4f7-a694d435b7fb)
+![image](https://github.com/user-attachments/assets/1b255072-0584-4500-815e-e5b9f2ce1a6e)
+![image](https://github.com/user-attachments/assets/5ff9ffbf-a5c0-4388-b4cf-a82c6701b8e9)
 
 E. Halaman About
 
