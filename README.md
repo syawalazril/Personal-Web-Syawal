@@ -24,7 +24,8 @@ mengelola konten.
 
 **Struktur Folder**
 
-![Screenshot 2025-06-23 115243](https://github.com/user-attachments/assets/0717420f-1eba-4070-bf7e-5dfcb35055de)
+![image](https://github.com/user-attachments/assets/02428f72-5d0b-406d-8f81-199eca4fbcf6)
+
 
 **User Interface Halaman Publik**
 
